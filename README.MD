@@ -1,6 +1,6 @@
 ## Workshop Reprograma :purple_heart:
 
-### Este projeto foi realizado em uma oficina, que fazia parte do processo de seleção de mulheres para os cursos de Front-end do {Reprograma}.
+### Este projeto foi realizado em uma oficina, que fazia parte do processo de seleção de mulheres para os cursos de Front-end do {Reprograma} :purple_heart:.
 
 ![Badge](https://img.shields.io/badge/github-https%3A%2F%2Fgithub.com%2FAlvesAline%2FworkshopReprograma-blueviolet)
 
